@@ -51,12 +51,16 @@ A web-based Library Management System that allows students to borrow and return 
 
 ###  Dashboard
 ![Dashboard](screenshots/dashboard1.png)
+
 ![Dashboard](screenshots/dashboard2(1).png)
 
 ###  Admin Dashboard
 ![Admin](screenshots/admindashboard1.png)
+
 ![Admin](screenshots/admindashboard2.png)
+
 ![Admin](screenshots/admindashboard3.png)
+
 ![Admin](screenshots/admindashboard4.png)
 
 ###  Available Books
