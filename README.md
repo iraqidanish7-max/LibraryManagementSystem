@@ -52,7 +52,7 @@ A web-based Library Management System that allows students to borrow and return 
 ###  Dashboard
 ![Dashboard](screenshots/dashboard1.png)
 
-![Dashboard](screenshots/dashboard2(1).png)
+![Dashboard](screenshots/dashboard2.png)
 
 ###  Admin Dashboard
 ![Admin](screenshots/admindashboard1.png)
